@@ -11,4 +11,4 @@ connecting MongoDB Atlas with Streamlit and my VS Code
 applying code to make a local host
 
 04-22-26
-basic UI and adding search button,
+basic UI and adding search button, and auto deleting stocks that have 0 quantity
